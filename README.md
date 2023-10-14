@@ -1,6 +1,6 @@
 ### Olá, eu sou o Ethan ✌️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.ethanleal/)
+[![Instagram](https://img.shields.io/badge/[Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.ethanleal/](https://www.instagram.com/lealzingg/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-leal-438433244/)
 
 ![Leal GitHub stats](https://github-readme-stats.vercel.app/api?username=lealzera&show_icons=true&theme=radical)
